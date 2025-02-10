@@ -1,0 +1,14 @@
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\bin\Debug\net8.0\ActividadesScripting.exe
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\bin\Debug\net8.0\ActividadesScripting.deps.json
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\bin\Debug\net8.0\ActividadesScripting.runtimeconfig.json
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\bin\Debug\net8.0\ActividadesScripting.dll
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\bin\Debug\net8.0\ActividadesScripting.pdb
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\obj\Debug\net8.0\ActividadesScripting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\obj\Debug\net8.0\ActividadesScripting.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\obj\Debug\net8.0\ActividadesScripting.AssemblyInfo.cs
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\obj\Debug\net8.0\ActividadesScripting.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\obj\Debug\net8.0\ActividadesScripting.dll
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\obj\Debug\net8.0\refint\ActividadesScripting.dll
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\obj\Debug\net8.0\ActividadesScripting.pdb
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\obj\Debug\net8.0\ActividadesScripting.genruntimeconfig.cache
+C:\Users\nicol\source\repos\ActividadesScripting\ActividadesScripting\obj\Debug\net8.0\ref\ActividadesScripting.dll
