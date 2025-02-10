@@ -1,0 +1,14 @@
+C:\Users\nicol\source\repos\Actividad2\Actividad2\bin\Debug\net8.0\Actividad2.exe
+C:\Users\nicol\source\repos\Actividad2\Actividad2\bin\Debug\net8.0\Actividad2.deps.json
+C:\Users\nicol\source\repos\Actividad2\Actividad2\bin\Debug\net8.0\Actividad2.runtimeconfig.json
+C:\Users\nicol\source\repos\Actividad2\Actividad2\bin\Debug\net8.0\Actividad2.dll
+C:\Users\nicol\source\repos\Actividad2\Actividad2\bin\Debug\net8.0\Actividad2.pdb
+C:\Users\nicol\source\repos\Actividad2\Actividad2\obj\Debug\net8.0\Actividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\Actividad2\Actividad2\obj\Debug\net8.0\Actividad2.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Actividad2\Actividad2\obj\Debug\net8.0\Actividad2.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Actividad2\Actividad2\obj\Debug\net8.0\Actividad2.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Actividad2\Actividad2\obj\Debug\net8.0\Actividad2.dll
+C:\Users\nicol\source\repos\Actividad2\Actividad2\obj\Debug\net8.0\refint\Actividad2.dll
+C:\Users\nicol\source\repos\Actividad2\Actividad2\obj\Debug\net8.0\Actividad2.pdb
+C:\Users\nicol\source\repos\Actividad2\Actividad2\obj\Debug\net8.0\Actividad2.genruntimeconfig.cache
+C:\Users\nicol\source\repos\Actividad2\Actividad2\obj\Debug\net8.0\ref\Actividad2.dll
