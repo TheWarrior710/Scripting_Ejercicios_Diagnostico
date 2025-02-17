@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\source\\repos\\ActividadesScripting\\ActividadesScripting\\ActividadesScripting.csproj": {}
+    "C:\\Users\\nicol\\Documents\\GitHub\\Scripting_Ejercicios_Diagnostico\\ActividadesScripting\\ActividadesScripting\\ActividadesScripting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\source\\repos\\ActividadesScripting\\ActividadesScripting\\ActividadesScripting.csproj": {
+    "C:\\Users\\nicol\\Documents\\GitHub\\Scripting_Ejercicios_Diagnostico\\ActividadesScripting\\ActividadesScripting\\ActividadesScripting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\ActividadesScripting\\ActividadesScripting\\ActividadesScripting.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Documents\\GitHub\\Scripting_Ejercicios_Diagnostico\\ActividadesScripting\\ActividadesScripting\\ActividadesScripting.csproj",
         "projectName": "ActividadesScripting",
-        "projectPath": "C:\\Users\\nicol\\source\\repos\\ActividadesScripting\\ActividadesScripting\\ActividadesScripting.csproj",
+        "projectPath": "C:\\Users\\nicol\\Documents\\GitHub\\Scripting_Ejercicios_Diagnostico\\ActividadesScripting\\ActividadesScripting\\ActividadesScripting.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\source\\repos\\ActividadesScripting\\ActividadesScripting\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\Documents\\GitHub\\Scripting_Ejercicios_Diagnostico\\ActividadesScripting\\ActividadesScripting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
